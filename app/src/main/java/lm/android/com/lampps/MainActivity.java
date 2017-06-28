@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         Log.d("a4a4a4a4a4a4","aa4aa4a4a4a4a444");
         Log.d("release  V3","v3v3v3v3v3v3v3v3v3v");
         Log.d("release  FiX ","v3v3v3v3v3v3v3v3v3vv3v3v3v3v3v3v3v3v3v");
+        Log.d("A5555 ","A5555");
     }
 }
