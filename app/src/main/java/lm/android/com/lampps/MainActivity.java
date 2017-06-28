@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.d("a1","a1");
-        Log.d("a2","a2222a2a2a2a2a2a2a2a2aa2a2a22a22a2");
+        Log.d("a2","A@A@A@A@A@A@@");
         Log.d("a3","a3a3a3a3a3a3a3a3");
     }
 }
